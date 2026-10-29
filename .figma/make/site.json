@@ -1,0 +1,10 @@
+{
+  "description": "Streamline project planning and collaboration with an intuitive platform designed to help teams build, manage, and track tasks efficiently.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
